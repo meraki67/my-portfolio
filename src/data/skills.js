@@ -1,0 +1,95 @@
+/**
+ * NOTE:
+ * - Each card (group) shows up to 4 items.
+ * - Grid is 3 columns on large screens already.
+ */
+export const skillGroups = [
+  {
+    id: "s1",
+    icon: "frontend",
+    title: "FrontEnd",
+    items: [
+      { label: "React/Next.js", value: 95 },
+      { label: "TypeScript", value: 95 },
+      { label: "Vue.js", value: 90 },
+      { label: "Tailwind CSS", value: 95 },
+      { label: "asdasd CSS", value: 95 },
+    ],
+  },
+  {
+    id: "s2",
+    icon: "backend",
+    title: "BackEnd",
+    items: [
+      { label: "Node.js", value: 85 },
+      { label: "Express", value: 85 },
+      { label: "MySQL", value: 80 },
+      { label: "REST APIs", value: 85 },
+    ],
+  },
+  {
+    id: "s3",
+    icon: "ui",
+    title: "UI/UX",
+    items: [
+      { label: "Design Systems", value: 85 },
+      { label: "Responsive UI", value: 95 },
+      { label: "Figma", value: 80 },
+      { label: "Prototyping", value: 80 },
+    ],
+  },
+  {
+    id: "s4",
+    icon: "tools",
+    title: "Dev Tools",
+    items: [
+      { label: "Git/GitHub", value: 90 },
+      { label: "Vite", value: 90 },
+      { label: "VS Code", value: 95 },
+      { label: "Docker", value: 70 },
+    ],
+  },
+];
+
+export const toolsRow = [
+  "Java",
+  "JavaScript",
+  "PHP",
+  "C++",
+  "C#",
+  "Visual Basic .NET",
+  "Python",
+  "MySQL",
+  "Node.js",
+  "Nest.js",
+  "HTML5",
+  "CSS3",
+  "Bootstrap",
+  "Vue.js",
+  "Quasar Framework",
+  "React",
+  "Tailwind CSS",
+  "TypeScript",
+  "Node.js",
+  "Express",
+  "MySQL",
+  "Git",
+  "GitHub",
+  "Vite",
+  "Postman",
+  "Xampp",
+  "Microsoft Office",
+  "Notepad++",
+  "Visual Studio Code",
+  "PowerShell",
+  "Basic Linux Administration",
+  "Remote Desktop Support (AnyDesk, TeamViewer)",
+  "TCP/IP Troubleshooting",
+  "DHCP Configuration",
+  "DNS Management",
+  "Windows OS Troubleshooting",
+  "Hardware & Software Support",
+  "Structured Cabling",
+  "LAN/WAN Setup and Maintenance",
+  "VMware Workstation",
+];
