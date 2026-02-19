@@ -72,6 +72,8 @@ Deploy to GitHub Pages:
 
 npm run deploy
 
+```
+
 🎯 Purpose
 This portfolio serves as:
 
