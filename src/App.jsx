@@ -605,7 +605,7 @@ export default function App() {
 
                 <p className="text-sm dark:text-white/50 text-slate-600">
                   {/* NOTE */}
-                  Want real sending? Use EmailJS, Formspree, or a small Node/Express API.
+                  {/* Want real sending? Use EmailJS, Formspree, or a small Node/Express API. */}
                 </p>
               </form>
             </div>
