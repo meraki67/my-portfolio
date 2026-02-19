@@ -267,7 +267,7 @@ export default function App() {
 
                 <div className="relative w-full max-w-md rounded-[32px] bg-white/10 backdrop-blur-xl border border-white/10 p-4 shadow-2xl">
                   <img
-                    src="./src/data/DAVE-KENNETH-CORBILLON-TORRES.png"
+                    src="/src/data/DAVE-KENNETH-CORBILLON-TORRES.png"
                     alt="About"
                     className="rounded-[24px] w-full object-cover"
                   />
