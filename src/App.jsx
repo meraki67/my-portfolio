@@ -220,7 +220,7 @@ export default function App() {
 
                   <div className="mt-6 rounded-2xl border border-white/10 bg-gradient-to-r from-indigo-500/20 to-violet-500/20 p-4">
                     <div className="text-sm dark:text-white/70 text-slate-700">
-                      This panel is optional—pwede mong palitan ng featured project preview, stats, etc.
+                      {/* This panel is optional—pwede mong palitan ng featured project preview, stats, etc. */}
                     </div>
                   </div>
                 </div>
@@ -267,7 +267,7 @@ export default function App() {
 
                 <div className="relative w-full max-w-md rounded-[32px] bg-white/10 backdrop-blur-xl border border-white/10 p-4 shadow-2xl">
                   <img
-                    src="/src/data/DAVE-KENNETH-CORBILLON-TORRES.png"
+                    src="./src/data/DAVE-KENNETH-CORBILLON-TORRES.png"
                     alt="About"
                     className="rounded-[24px] w-full object-cover"
                   />
